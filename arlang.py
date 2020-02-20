@@ -1,4 +1,4 @@
-# importing only those functions
+# importing only those func
 # which are needed
 from tkinter import *
 from tkinter.ttk import *
